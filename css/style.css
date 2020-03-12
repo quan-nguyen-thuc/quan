@@ -1,0 +1,12 @@
+table,
+th,
+td {
+    border: 1px solid white;
+    /*thu gọn thành 1 viền*/
+    border-collapse: collapse;
+}
+
+table {
+    /*thêm khoảng cách giữa các viên*/
+    /*border-spacing: 15px;*/
+}
